@@ -1,4 +1,4 @@
-# [Lista de Tarefas](https://heyloh.github.io/todos/)
+# [Lista de Tarefas](https://heyloh.github.io/todos/index.html)
 ✔ Projeto simples de uma lista de tarefas utilizando HTML, CSS e JavaScript.
 
 <p align="center">
