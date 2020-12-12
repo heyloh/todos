@@ -12,3 +12,6 @@
 - Manipulação da DOM
 
 Eu disse que era simples 🤷🏽
+
+---
+Feito com ❤️ por Lohana Torres.
